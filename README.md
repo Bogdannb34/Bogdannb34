@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bogdannb34
 - 👀 I’m interested in expanding my knowledge in programming
-- 🌱 I’m currently learning Java, Spring Framework.
+- 🌱 I’m currently learning React, Javascript
+- 🕹️ I have a good understanding of Java and I’m comfortable with Spring boot as well
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me -> email : crissco_bogdano@yahoo.com
 
